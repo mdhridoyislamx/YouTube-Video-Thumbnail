@@ -1,4 +1,4 @@
-# YouTube Video Thumbnail Downloader
+# YouTube Video Thumbnail Downloader PHP Script
 
 This tool allows you to easily download thumbnails from YouTube videos using their video IDs.
 
